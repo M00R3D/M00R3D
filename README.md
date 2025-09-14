@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M00R3D, buy my real name is Job Moore.
+# 👋 Hi, I'm M00R3D, but my real name is Job Moore.
 
 **Passionate developer & game creator aspirant | Lifelong learner | Frontend enthusiast**
 
