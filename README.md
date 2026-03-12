@@ -1,67 +1,54 @@
-# 👋 Hi, I'm M00R3D, but my real name is Job Moore.
+# Hi — I'm M00R3D 👋
 
-**Passionate developer & game creator aspirant | Lifelong learner | Frontend enthusiast**
+Welcome to my GitHub profile. I build web apps, games, and backend systems — often using Laravel, Vue, and MySQL. Below are some highlighted projects with short descriptions and the main languages used.
+
+## About me
+- Interests: web development, games, backend APIs, optimization
+- Primary stack: Vue, Laravel, MySQL
+- Contact: (add your email or links to social profiles)
 
 ---
 
-🎮 **About Me**
-
-I'm a developer with a love for games and creative coding. Every day is a new opportunity to learn, whether I'm working on a new parser, a file format converter, or supporting my university's web projects in the frontend area. When I'm not coding, you’ll find me sketching, designing in Figma, or organizing ideas with Kanban boards and collaborative tools.
-
----
-
-## 🚀 Principal Projects
+## Featured repositories
 
 - [HyperConflict](https://github.com/M00R3D/HyperConflict)  
-  *A simple 2D fighting game built with p5.js, inspired by classics like Street Fighter II. Fighters, attacks, and animated sprites—Tyeman awaits your challenge!*
+  A simple 2D fighting game built with p5.js, inspired by classic titles like Street Fighter II. The project features two fighters, basic attacks (punch, kick, special power), and animated sprites for the main character "Tyeman".  
+  Main language: JavaScript (100%).
 
-- [Ping-Pong](https://github.com/M00R3D/Ping-Pong)  
-  *Retro-style ping pong in p5.js. Fast, fun, and a great project for learning game loops and real-time interaction.*
+- [HomeRes](https://github.com/M00R3D/HomeRes)  
+  Repository for the software project of the Software Engineering II course at UABCS (DASC). Built as a web application using Blade templates and PHP.  
+  Languages: Blade (~66.5%), PHP (~29.5%), CSS (~3.8%), JavaScript (~0.2%).
 
-- [CasitasPage](https://github.com/M00R3D/CasitasPage)  
-  *Frontend for a hotel website, built with Vue.js. Real-world web development meets creative design.*
-
-- [CursoFlexboxCss](https://github.com/M00R3D/CursoFlexboxCss)  
-  *A repo for tracking progress through the CSS Flexbox course. Perfect for anyone mastering modern layouts.*
-
-- [NotSoPeaceful](https://github.com/M00R3D/NotSoPeaceful)  
-  *A project in Game Maker Language—where chaos meets creativity.*
+- [FriendHub](https://github.com/M00R3D/FriendHub)  
+  A simple PHP + MySQL project for documenting a basic social media-style site (database and web interface).  
+  Languages: PHP (~88.6%), CSS (~6.6%), JavaScript (~4.8%).
 
 ---
 
-## 💼 Recent Collaborations
-
-- [cep-admin](https://github.com/TDS-DASC/cep-admin)  
-- [biblioteca-virtual](https://github.com/TDS-DASC/biblioteca-virtual)  
-- [school-schedule-admin](https://github.com/TDS-DASC/school-schedule-admin)  
-- [fitnets-site-sotre](https://github.com/DevcoBaja/fitnets-site-sotre)  
-
-Working with teams to bring ideas to life, support university web platforms, and push the boundaries of frontend development.
+## Tech & tooling
+I work primarily with:
+- Frontend: Vue (Vue 2 / Vue 3 — specify which you prefer)
+- Backend: Laravel (PHP), Blade templates
+- Databases: MySQL
+- Other: p5.js for small game projects, Docker, GitHub Actions
 
 ---
 
-## 🛠️ Skills & Interests
-
-- **Frontend:** JavaScript, Vue.js, HTML, CSS, p5.js
-- **Design:** Figma, drawing, UI/UX principles
-- **Collaboration:** Kanban, team tools, open-source
-- **Exploring:** Parsers, file format converters, creative coding
+## Contributing
+- Want to help? Open an issue or a PR on the repository you care about.
+- Look for issues labeled `help wanted` or `good first issue`.
+- If you'd like, I can add CONTRIBUTING.md and setup docs per repo.
 
 ---
 
-## 🎨 Fun Facts
-
-- I love to draw—sometimes my code and sketches meet in game designs!
-- Figma and Kanban boards are my natural habitat for creative and productive work.
-- Always up for learning new tech, especially anything that brings art and code together.
+## Support / Follow
+- Star repositories you find useful ⭐
+- Follow me for updates and new projects
 
 ---
 
-<!-- Optionally add social links here -->
-<!--
-[LinkedIn](#) • [Portfolio](#) • [Twitter](#)
--->
-
----
-
-> “Code is my canvas. Every commit is a new stroke in my ongoing masterpiece.”
+If you want, I can:
+- Add repository badges (language, stars, CI status).
+- Pull README excerpts or screenshots from each project and include them here.
+- Translate to bilingual (English + Spanish).
+- Commit this directly to the `M00R3D/M00R3D` profile repository — tell me the commit message and whether to use `main` or create a branch (suggested branch name: `update-readme`).
