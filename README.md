@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I build web apps, games, and backend systems — o
 ## About me
 - Interests: web development, games, backend APIs, optimization
 - Primary stack: Vue, Laravel, MySQL
-- Contact: (add your email or links to social profiles)
+- Contact: jobmurdan@hotmail.com
 
 ---
 
