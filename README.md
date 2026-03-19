@@ -34,21 +34,3 @@ I work primarily with:
 
 ---
 
-## Contributing
-- Want to help? Open an issue or a PR on the repository you care about.
-- Look for issues labeled `help wanted` or `good first issue`.
-- If you'd like, I can add CONTRIBUTING.md and setup docs per repo.
-
----
-
-## Support / Follow
-- Star repositories you find useful ⭐
-- Follow me for updates and new projects
-
----
-
-If you want, I can:
-- Add repository badges (language, stars, CI status).
-- Pull README excerpts or screenshots from each project and include them here.
-- Translate to bilingual (English + Spanish).
-- Commit this directly to the `M00R3D/M00R3D` profile repository — tell me the commit message and whether to use `main` or create a branch (suggested branch name: `update-readme`).
